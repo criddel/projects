@@ -2,6 +2,7 @@
 #include <math.h>
 
 //reverses an array
+//Code developed by me for an assignment from CMPT 127, Simon Fraser University, Summer 2018
 
 void reverse ( int arr[], unsigned int len)
 
