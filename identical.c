@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 //between 2 arrays: return 1 if they are identical, 0 if they are not.
+//Code developed by me for an assignment from CMPT 127, Simon Fraser University, Summer 2018
 
 int identical ( int a[], int b[], unsigned int len )
 {
