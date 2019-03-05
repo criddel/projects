@@ -1,3 +1,5 @@
+//This was from the Lighthouse Labs Daily Coding Challenge 2018
+
 const GRID = [
       ["", "", "", "^", "", "", "", "", "", ""],
       ["", "", "v", "", "~", "", "", "", "", ""],
