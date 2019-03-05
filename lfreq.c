@@ -3,6 +3,7 @@
 #include <string.h>
 
 //Determines proportion of each alphabet letter within a string
+//Code developed by me for an assignment from CMPT 127, Simon Fraser University, Summer 2018
 
 int main ( int argc, char* argv )
 {
